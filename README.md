@@ -1,26 +1,32 @@
 # Gestion-ABS
 
-Gestion-ABS is a Python project for dealing with attendance management using facial recognition and the openCV library.
+
+Gestion-ABS is a Python-based project that aims to simplify attendance management by employing facial recognition technology and leveraging the openCV library.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install this project.
 
 ```bash
+
 pip install -r requirements.txt
+
 ```
 
 ## Usage
 
-if you want to run this project use :
+To run the project, execute the following command:
 
-```python
+```bash
+
 python train.py
 
 ```
 
-click on "prendre photo" button and then click train and stock button , these actions will mark your presence and also the date.
+## Authors
 
-## Contributors
+- [Amine Tayani](https://www.github.com/amine-tayani)
+- [Oualid Bougzime](https://www.linkedin.com/in/oualid-bougzime-6857a9177)
 
-[Amine Tayani](https://www.linkedin.com/in/aminety) and [Oualid Bougzime](https://www.linkedin.com/in/oualid-bougzime-6857a9177/)
+Feel free to connect with the contributors for any questions or feedback related to the project.
+
